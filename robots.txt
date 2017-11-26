@@ -1,0 +1,8 @@
+User-agent : *
+Disallow :*
+Disallow : index.phpDisallow : ozway-site
+Disallow : ozway-site2
+Disallow : ozway-site3
+Disallow : vitrineLOCAL3
+Disallow : prestashop
+Disallow : prestashop2
